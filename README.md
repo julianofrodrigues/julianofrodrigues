@@ -6,7 +6,7 @@
   
 </div>
 
-## Technologies/tools that I often use:
+## 💻Technologies/tools that I often use:💾
 
 <p align="center">
   <img align="center" alt="Juliano-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -17,9 +17,10 @@
   <img align="center" alt="Juliano-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </p>
   
-  ## My contacts:
- <img align="right" alt="Juliano-pic" height="200" style="margin-top:20px; border-radius:50px;" src="https://i.imgur.com/CEoqRm8.png">   
+  ## 📱My contacts:✉
+  
  <div>
+    <img align="center" alt="Juliano-pic" height="100" style="margin-top:20px; border-radius:50px;" src="https://i.imgur.com/CEoqRm8.png"> 
 <a href = "mailto:julianof.rodrigues@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
 <a href = "mailto:julianof.rodrigues@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  <a href="https://www.linkedin.com/in/juliano-ferreira-41534b1a4/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
