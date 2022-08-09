@@ -16,6 +16,29 @@
   <img align="center" alt="Juliano-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Juliano-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </p>
+
+## ⭐ My best projects
+
+<div align="center">
+  <a href="https://github.com/julianofrodrigues/plant-manager"> 
+     <img height=165 width=500 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=julianofrodrigues&repo=plant-manager&layout=compact&theme=tokyonight"/>
+  </a>
+  
+  <a href="https://github.com/julianofrodrigues/Proffy-NodeJs"> 
+     <img height=165 width=500 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=julianofrodrigues&repo=Proffy-NodeJs&layout=compact&theme=tokyonight"/>
+  </a>
+
+  <br />
+  <br />
+
+  <a href="https://github.com/julianofrodrigues/Flappy-Bird-com-JS"> 
+     <img height=165 width=500 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=julianofrodrigues&repo=Flappy-Bird-com-JS&layout=compact&theme=tokyonight"/>
+  </a>
+  
+  <a href="https://github.com/julianofrodrigues/My-AluraFlix"> 
+     <img height=165 width=500 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=julianofrodrigues&repo=My-AluraFlix&layout=compact&theme=tokyonight"/>
+  </a>
+</div>
   
   ## 📱My contacts:✉
   
